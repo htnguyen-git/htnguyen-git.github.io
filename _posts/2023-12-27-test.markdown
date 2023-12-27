@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "My first post"
+date:   2023-12-27 15:23:16 +0700
+# categories: categories
+---
+
+Hello world!
