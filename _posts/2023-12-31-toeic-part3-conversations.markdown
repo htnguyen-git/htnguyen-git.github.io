@@ -12,10 +12,3 @@ categories: toeic part3
 
 ## Lời khuyên
 - Nghe cẩn thận ý chính của cuộc hội thoại:
-
-### Speaker
-### Where are they
-### What are they doing
-### What are they talking about
-### What are they planning to do
-### How are they feeling

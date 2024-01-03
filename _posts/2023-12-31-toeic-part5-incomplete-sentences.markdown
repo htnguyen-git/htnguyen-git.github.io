@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title:  "Toeic part5: talks"
+title:  "Toeic part5: incomplete sentenses"
 date:   2023-12-22 15:23:16 +0700
-categories: toeic part4
+categories: toeic part5
 ---
 
 # Part 5 - Talks
