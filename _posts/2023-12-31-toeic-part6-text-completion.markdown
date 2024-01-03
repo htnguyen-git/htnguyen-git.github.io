@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Toeic part6: text completion"
-date:   2023-12-22 15:23:16 +0700
+date:   2023-12-22 18:23:16 +0700
 categories: toeic part6
 ---
 # Part 6: Text completion
