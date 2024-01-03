@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Toeic vocabulary"
-date:   2023-12-22 15:23:16 +0700
+date:   2024-01-03 17:23:16 +0700
 categories: toeic vocabulary
 ---
 
