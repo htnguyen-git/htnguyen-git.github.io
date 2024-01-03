@@ -1,0 +1,338 @@
+[
+  {
+    "group": 1,
+    "word": "Allowed",
+    "IPA": "",
+    "meaning": "permitted"
+  },
+  {
+    "group": 1,
+    "word": "Aloud",
+    "IPA": "",
+    "meaning": "out loud, audible"
+  },
+  {
+    "group": 2,
+    "word": "Band",
+    "IPA": "",
+    "meaning": "musical group"
+  },
+  {
+    "group": 2,
+    "word": "Banned",
+    "IPA": "",
+    "meaning": "not allowed, not permitted"
+  },
+  {
+    "group": 3,
+    "word": "Board",
+    "IPA": "",
+    "meaning": "leaders of a company"
+  },
+  {
+    "group": 3,
+    "word": "Bored",
+    "IPA": "",
+    "meaning": "not interted"
+  },
+  {
+    "group": 4,
+    "word": "Cents",
+    "IPA": "",
+    "meaning": "money"
+  },
+  {
+    "group": 4,
+    "word": "Sense",
+    "IPA": "",
+    "meaning": "intelligence"
+  },
+  {
+    "group": 5,
+    "word": "Sight",
+    "IPA": "",
+    "meaning": "can see"
+  },
+  {
+    "group": 5,
+    "word": "Site",
+    "IPA": "",
+    "meaning": "position"
+  },
+  {
+    "group": 6,
+    "word": "Fair",
+    "IPA": "",
+    "meaning": "honest, just"
+  },
+  {
+    "group": 6,
+    "word": "Fare",
+    "IPA": "",
+    "meaning": "cost on a bus, train"
+  },
+  {
+    "group": 7,
+    "word": "Find",
+    "IPA": "",
+    "meaning": "discover"
+  },
+  {
+    "group": 7,
+    "word": "Fined",
+    "IPA": "",
+    "meaning": "made to pay a penalty"
+  },
+  {
+    "group": 8,
+    "word": "Flew",
+    "IPA": "",
+    "meaning": "past of fly"
+  },
+  {
+    "group": 8,
+    "word": "Flu",
+    "IPA": "",
+    "meaning": "illness like a cold"
+  },
+  {
+    "group": 9,
+    "word": "Flour",
+    "IPA": "",
+    "meaning": "make bread with it"
+  },
+  {
+    "group": 9,
+    "word": "Flower",
+    "IPA": "",
+    "meaning": "eg: rose"
+  },
+  {
+    "group": 10,
+    "word": "Guessed",
+    "IPA": "",
+    "meaning": "deducted, deduced"
+  },
+  {
+    "group": 10,
+    "word": "Guest",
+    "IPA": "",
+    "meaning": "invited visitor"
+  },
+  {
+    "group": 11,
+    "word": "Higher",
+    "IPA": "",
+    "meaning": "above"
+  },
+  {
+    "group": 11,
+    "word": "Hire",
+    "IPA": "",
+    "meaning": "rent"
+  },
+  {
+    "group": 12,
+    "word": "Knew",
+    "IPA": "",
+    "meaning": "know"
+  },
+  {
+    "group": 12,
+    "word": "New",
+    "IPA": "",
+    "meaning": "opposite of old"
+  },
+  {
+    "group": 13,
+    "word": "Mail",
+    "IPA": "",
+    "meaning": "post"
+  },
+  {
+    "group": 13,
+    "word": "Male",
+    "IPA": "",
+    "meaning": "boy or man"
+  },
+  {
+    "group": 14,
+    "word": "Meat",
+    "IPA": "",
+    "meaning": "food from a animal"
+  },
+  {
+    "group": 14,
+    "word": "Meet",
+    "IPA": "",
+    "meaning": "come together"
+  },
+  {
+    "group": 15,
+    "word": "Overseas",
+    "IPA": "",
+    "meaning": "abroad"
+  },
+  {
+    "group": 15,
+    "word": "Oversees",
+    "IPA": "",
+    "meaning": "responsible for"
+  },
+  {
+    "group": 16,
+    "word": "Pear",
+    "IPA": "",
+    "meaning": "fruit"
+  },
+  {
+    "group": 16,
+    "word": "Pair",
+    "IPA": "",
+    "meaning": "two"
+  },
+  {
+    "group": 17,
+    "word": "Plane",
+    "IPA": "",
+    "meaning": "airplane"
+  },
+  {
+    "group": 17,
+    "word": "Plain",
+    "IPA": "",
+    "meaning": "ordinary"
+  },
+  {
+    "group": 18,
+    "word": "Road",
+    "IPA": "",
+    "meaning": "street"
+  },
+  {
+    "group": 18,
+    "word": "Rode",
+    "IPA": "",
+    "meaning": "past of ride"
+  },
+  {
+    "group": 19,
+    "word": "Sale",
+    "IPA": "",
+    "meaning": "reduce price"
+  },
+  {
+    "group": 19,
+    "word": "Sail",
+    "IPA": "",
+    "meaning": "travel by boat"
+  },
+  {
+    "group": 20,
+    "word": "Steal",
+    "IPA": "",
+    "meaning": "take dishonestly"
+  },
+  {
+    "group": 20,
+    "word": "Steel",
+    "IPA": "",
+    "meaning": "a metal"
+  },
+  {
+    "group": 21,
+    "word": "Suit",
+    "IPA": "",
+    "meaning": "a group of rooms"
+  },
+  {
+    "group": 21,
+    "word": "Sweet",
+    "IPA": "",
+    "meaning": "Sugary taste"
+  },
+  {
+    "group": 22,
+    "word": "Threw",
+    "IPA": "",
+    "meaning": "past of throw"
+  },
+  {
+    "group": 22,
+    "word": "Through",
+    "IPA": "",
+    "meaning": "adverb - from side to side"
+  },
+  {
+    "group": 23,
+    "word": "To",
+    "IPA": "",
+    "meaning": "preposition, part of a verb"
+  },
+  {
+    "group": 23,
+    "word": "Too",
+    "IPA": "",
+    "meaning": "as well"
+  },
+  {
+    "group": 23,
+    "word": "Two",
+    "IPA": "",
+    "meaning": "number 2"
+  },
+  {
+    "group": 24,
+    "word": "Wait",
+    "IPA": "",
+    "meaning": "stop for a moment"
+  },
+  {
+    "group": 24,
+    "word": "Weight",
+    "IPA": "",
+    "meaning": "how many kilos"
+  },
+  {
+    "group": 25,
+    "word": "Wear",
+    "IPA": "",
+    "meaning": "dress in"
+  },
+  {
+    "group": 25,
+    "word": "Where",
+    "IPA": "",
+    "meaning": "question word"
+  },
+  {
+    "group": 25,
+    "word": "We're",
+    "IPA": "",
+    "meaning": "we are"
+  },
+  {
+    "group": 26,
+    "word": "Weigh",
+    "IPA": "",
+    "meaning": "number of kilos"
+  },
+  {
+    "group": 26,
+    "word": "Way",
+    "IPA": "",
+    "meaning": "direction"
+  },
+  {
+    "group": 27,
+    "word": "Week",
+    "IPA": "",
+    "meaning": "seven days"
+  },
+  {
+    "group": 27,
+    "word": "Weak",
+    "IPA": "",
+    "meaning": "opposite of strong"
+  }
+]
