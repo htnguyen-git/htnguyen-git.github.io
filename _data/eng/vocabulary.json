@@ -1,0 +1,792 @@
+﻿[
+  {
+    "id": 1,
+    "group": "People and Occupations List",
+    "word": "Accountant",
+    "ipa": "",
+    "meaning": "Kế toán",
+    "describe": "An accountant is a professional who is responsible for recording, analyzing, and managing financial transactions and information for individuals, companies, or organizations. They ensure accurate financial records and provide insights for decision-making."
+  },
+  {
+    "id": 2,
+    "group": "People and Occupations List",
+    "word": "Manager",
+    "ipa": "",
+    "meaning": "Giám đốc",
+    "describe": "A manager is an individual who oversees and directs the activities of a team, department, or organization. Managers are responsible for planning, organizing, coordinating, and guiding the efforts of their team members to achieve specific goals."
+  },
+  {
+    "id": 3,
+    "group": "People and Occupations List",
+    "word": "Executive",
+    "ipa": "",
+    "meaning": "Giám đốc điều hành",
+    "describe": "An executive is a high-ranking leader within an organization, typically responsible for making important decisions, setting strategic directions, and managing the overall operations of the company. Executives often report directly to the company's board of directors."
+  },
+  {
+    "id": 4,
+    "group": "People and Occupations List",
+    "word": "Receptionist",
+    "ipa": "",
+    "meaning": "Nhân viên lễ tân",
+    "describe": "A receptionist is an individual who greets visitors, answers phone calls, and performs administrative tasks at the front desk of a business, office, or organization. They play a crucial role in creating a positive first impression for guests."
+  },
+  {
+    "id": 5,
+    "group": "People and Occupations List",
+    "word": "Technician",
+    "ipa": "",
+    "meaning": "Kỹ thuật viên",
+    "describe": "A technician is a skilled professional who specializes in performing technical tasks, repairs, maintenance, or troubleshooting in various fields such as technology, mechanics, electronics, or healthcare. Technicians often have practical expertise in their area of focus."
+  },
+  {
+    "id": 6,
+    "group": "People and Occupations List",
+    "word": "Engineer",
+    "ipa": "",
+    "meaning": "Kỹ sư",
+    "describe": "An engineer is a professional who applies scientific and mathematical principles to design, develop, and create solutions for technological, mechanical, or structural challenges. Engineers are involved in designing, testing, and implementing various products and systems."
+  },
+  {
+    "id": 7,
+    "group": "People and Occupations List",
+    "word": "Customer Service Representative",
+    "ipa": "",
+    "meaning": "Đại Diện bộ phận dịch vụ khách hàng",
+    "describe": "A customer service representative (CSR) is an individual who interacts with customers on behalf of a company or organization. CSRs provide assistance, address inquiries, resolve issues, and ensure that customers have a positive experience."
+  },
+  {
+    "id": 8,
+    "group": "People and Occupations List",
+    "word": "Salesperson",
+    "ipa": "",
+    "meaning": "Nhân viên bán hàng",
+    "describe": "A salesperson is an individual who is responsible for selling products, services, or solutions to customers. Salespeople engage with potential clients, present offerings, and work to meet sales targets and customer needs."
+  },
+  {
+    "id": 9,
+    "group": "People and Occupations List",
+    "word": "Secretary",
+    "ipa": "",
+    "meaning": "Thư ký",
+    "describe": "A secretary is an administrative professional who assists in managing office tasks, organizing meetings, handling correspondence, and providing support to executives or teams. Secretaries play a role in maintaining smooth office operations"
+  },
+  {
+    "id": 10,
+    "group": "People and Occupations List",
+    "word": "Supervisor",
+    "ipa": "",
+    "meaning": "Người giám sát",
+    "describe": "A supervisor is a person who oversees the work and performance of a group of employees or a department. Supervisors provide guidance, assign tasks, monitor progress, and ensure that work is carried out effectively and efficiently."
+  },
+  {
+    "id": 11,
+    "group": "Business and Finance list",
+    "word": "Investment",
+    "meaning": "Đầu tư",
+    "describe": "An investment refers to the allocation of funds, resources, or capital with the intention of gaining financial returns or benefits in the future. Investments can include various assets such as stocks, bonds, real estate, or business ventures."
+  },
+  {
+    "id": 12,
+    "group": "Business and Finance list",
+    "word": "Profit",
+    "meaning": "Lợi nhuận",
+    "describe": "Profit is the financial gain or positive difference between the revenue generated from selling goods, services, or assets and the total costs incurred to produce or acquire those goods, services, or assets. It reflects the net income earned by a business or individual after deducting expenses."
+  },
+  {
+    "id": 13,
+    "group": "Business and Finance list",
+    "word": "Loss",
+    "meaning": "Khoản lỗ",
+    "describe": " A loss occurs when the expenses or costs incurred by a business or individual exceed the revenue generated from sales, resulting in a negative financial outcome. It represents a decrease in net income or a deficit in financial performance"
+  },
+  {
+    "id": 14,
+    "group": "Business and Finance list",
+    "word": "Stock Market",
+    "ipa": "",
+    "meaning": "Thị trường chứng khoán",
+    "describe": "The stock market is a platform or marketplace where individuals and institutions buy and sell shares (ownership units) of publicly traded companies. It provides a way for companies to raise capital by issuing shares and for investors to participate in ownership and potential financial gains."
+  },
+  {
+    "id": 15,
+    "group": "Business and Finance list",
+    "word": "Shareholder",
+    "ipa": "",
+    "meaning": "Cổ đông",
+    "describe": "A shareholder is an individual or entity that owns shares or stock in a company. Shareholders have ownership rights and are entitled to a portion of the company's profits, often in the form of dividends, and may also have voting rights in certain matters affecting the company."
+  },
+  {
+    "id": 16,
+    "group": "Business and Finance list",
+    "word": "Merger",
+    "ipa": "",
+    "meaning": "Sáp nhập",
+    "describe": "A merger is a business transaction in which two or more companies combine to form a single entity. This can be done to achieve operational synergies, increase market share, or enhance competitiveness. In a merger, the companies involved usually agree to pool their resources and assets."
+  },
+  {
+    "id": 17,
+    "group": "Business and Finance list",
+    "word": "Acquisition",
+    "ipa": "",
+    "meaning": "Vụ mua lại",
+    "describe": "An acquisition involves one company purchasing another company's assets, shares, or controlling interest to gain control over its operations, assets, or intellectual property. This can be done to expand market presence, access new technologies, or achieve strategic goals."
+  },
+  {
+    "id": 18,
+    "group": "Business and Finance list",
+    "word": "Budget",
+    "ipa": "",
+    "meaning": "Ngân sách",
+    "describe": "A budget is a financial plan that outlines an individual's or organization's estimated income and projected expenses for a specific period. It serves as a guideline for managing and allocating resources to various activities and helps control spending and achieve financial goals."
+  },
+  {
+    "id": 19,
+    "group": "Business and Finance list",
+    "word": "Invoice",
+    "ipa": "",
+    "meaning": "Hóa đơn",
+    "describe": "An invoice is a formal document issued by a seller to a buyer detailing the products or services provided, along with the agreed-upon prices and payment terms. It serves as a request for payment and includes information necessary for the buyer to fulfill their financial obligation."
+  },
+  {
+    "id": 20,
+    "group": "Business and Finance list",
+    "word": "Entrepreneur",
+    "ipa": "",
+    "meaning": "Doanh nhân",
+    "describe": "An entrepreneur is an individual who identifies business opportunities, takes calculated risks, and organizes resources to start and operate a new business venture. Entrepreneurs often play a key role in driving innovation, creating jobs, and contributing to economic growth."
+  },
+  {
+    "id": 21,
+    "group": "Communications",
+    "word": "Conversation",
+    "ipa": "",
+    "meaning": "Cuộc trò chuyện",
+    "describe": " A conversation is a verbal or written exchange of thoughts, ideas, information, or opinions between two or more individuals. It involves an interactive communication process that can take place in person, over the phone, through messaging, or other mediums."
+  },
+  {
+    "id": 22,
+    "group": "Communications",
+    "word": "Presentation",
+    "ipa": "",
+    "meaning": "Thuyết trình",
+    "describe": "A presentation is a formal communication that involves conveying information, ideas, data, or concepts to an audience. It often includes visual aids such as slides, charts, and graphics to support the speaker's message and engage the audience."
+  },
+  {
+    "id": 23,
+    "group": "Communications",
+    "word": "Negotiation",
+    "ipa": "",
+    "meaning": "Đàm phán",
+    "describe": "Negotiation is a process of discussion and communication between parties with differing interests, with the goal of reaching a mutually acceptable agreement or resolution. It involves bargaining, compromise, and finding common ground to satisfy the needs of all parties involved."
+  },
+  {
+    "id": 24,
+    "group": "Communications",
+    "word": "Memo",
+    "ipa": "",
+    "meaning": "Bản ghi nhớ",
+    "describe": "A memo, short for memorandum, is a written communication typically used within an organization to convey important information, instructions, or updates. Memos are often concise and to the point, addressing specific topics or issues."
+  },
+  {
+    "id": 25,
+    "group": "Communications",
+    "word": "Report",
+    "ipa": "",
+    "meaning": "Báo cáo",
+    "describe": "A report is a structured document that provides information, analysis, findings, and recommendations on a particular subject or topic. Reports are often used to present research, data analysis, project status, or other detailed information to inform decision-making."
+  },
+  {
+    "id": 26,
+    "group": "Communications",
+    "word": "Correspondence",
+    "ipa": "",
+    "meaning": "Thư từ",
+    "describe": "Correspondence refers to written communication exchanged between individuals or entities. It can include letters, emails, memos, and other forms of written communication used for various purposes such as conveying information, making requests, or discussing matters of importance."
+  },
+  {
+    "id": 27,
+    "group": "Communications",
+    "word": "Announcement",
+    "ipa": "",
+    "meaning": "Thông báo",
+    "describe": "An announcement is a formal declaration or communication made to inform a group of people about a specific event, news, policy change, or other significant developments. Announcements can be made in various formats, such as written statements, speeches, or press releases."
+  },
+  {
+    "id": 28,
+    "group": "Communications",
+    "word": "Briefing",
+    "ipa": "",
+    "meaning": "Bản tóm tắt",
+    "describe": "A briefing is a concise and informative presentation or communication that provides essential information, updates, or instructions to individuals or a team. Briefings are often used to prepare individuals for a meeting, task, or event."
+  },
+  {
+    "id": 29,
+    "group": "Communications",
+    "word": "Conference Call",
+    "ipa": "",
+    "meaning": "Cuộc gọi hội nghị / cuộc gọi trực tuyến",
+    "describe": "A conference call is a telecommunication method that allows multiple participants to engage in a phone conversation simultaneously. It is often used for business meetings, discussions, and collaborations when participants are located in different locations."
+  },
+  {
+    "id": 31,
+    "group": "Technology",
+    "word": "Software",
+    "ipa": "",
+    "meaning": "Phần mềm",
+    "describe": "Software refers to a collection of programs, instructions, and data that enable a computer or electronic device to perform specific tasks or functions. It encompasses applications, operating systems, utilities, and other programs that users interact with."
+  },
+  {
+    "id": 32,
+    "group": "Technology",
+    "word": "Hardware",
+    "ipa": "",
+    "meaning": "Phần cứng",
+    "describe": "Hardware refers to the physical components of a computer or electronic device that can be seen and touched. This includes components like the central processing unit (CPU), memory, hard drives, graphics cards, and input/output devices."
+  },
+  {
+    "id": 33,
+    "group": "Technology",
+    "word": "Database",
+    "ipa": "",
+    "meaning": "Cơ sở dữ liệu",
+    "describe": "A database is a structured collection of organized data that is stored electronically and can be easily accessed, managed, and manipulated. It is designed to efficiently store and retrieve data for various applications and purposes."
+  },
+  {
+    "id": 34,
+    "group": "Technology",
+    "word": "Network",
+    "ipa": "",
+    "meaning": "Mạng máy tính",
+    "describe": "A network is a system that connects multiple computers, devices, or components to facilitate communication, data sharing, and resource sharing among them. Networks can be local (LAN) or global (WAN) and can use various technologies like wired or wireless connections."
+  },
+  {
+    "id": 35,
+    "group": "Technology",
+    "word": "Browser",
+    "ipa": "",
+    "meaning": "Trình duyệt",
+    "describe": "A browser, short for web browser, is a software application used to access and view content on the World Wide Web. It interprets and displays web pages, allowing users to navigate the internet, view websites, and interact with online content."
+  },
+  {
+    "id": 36,
+    "group": "Technology",
+    "word": "Application",
+    "ipa": "",
+    "meaning": "Ứng dụng",
+    "describe": "An application, often referred to as an app, is a software program designed to perform specific tasks or functions for users. Applications can include productivity tools, entertainment software, utilities, and more, and can run on various devices like computers, smartphones, and tablets"
+  },
+  {
+    "id": 37,
+    "group": "Technology",
+    "word": "Upgrade",
+    "ipa": "",
+    "meaning": "Sự Nâng cấp",
+    "describe": "An upgrade refers to the process of improving or enhancing a software program, hardware component, or system to a newer version with improved features, functionality, performance, or security."
+  },
+  {
+    "id": 38,
+    "group": "Technology",
+    "word": "Compatibility",
+    "ipa": "",
+    "meaning": "Khả năng tương thích",
+    "describe": "Compatibility refers to the ability of different hardware, software, or systems to work together or interact seamlessly without issues. Compatibility ensures that components or programs can function correctly and share data effectively."
+  },
+  {
+    "id": 39,
+    "group": "Technology",
+    "word": "Virus",
+    "ipa": "",
+    "meaning": "virus",
+    "describe": "In the context of computing, a virus is a type of malicious software (malware) that can infect and spread to other computer systems. It can damage, disrupt, or steal information from a computer or network. Viruses often require human action, such as opening an infected file, to spread."
+  },
+  {
+    "id": 40,
+    "group": "Technology",
+    "word": "Firewall",
+    "ipa": "",
+    "meaning": "Tường lửa",
+    "describe": "A firewall is a security system, either software or hardware-based, designed to protect a computer network or device from unauthorized access, threats, and malicious activities. It acts as a barrier between a trusted internal network and external networks, filtering incoming and outgoing network traffic based on predefined rules. Firewalls can prevent unauthorized access, block malicious software, and help safeguard sensitive data."
+  },
+  {
+    "id": 41,
+    "group": "Travel and transportation",
+    "word": "Reservation",
+    "ipa": "",
+    "meaning": "Đặt chỗ",
+    "describe": "A reservation is a formal arrangement made in advance to secure a spot, seat, accommodation, or service for a specific date, time, or period. Reservations are commonly used for travel, dining, accommodations, and other activities."
+  },
+  {
+    "id": 42,
+    "group": "Travel and transportation",
+    "word": "Departure",
+    "ipa": "",
+    "meaning": "Khởi hành",
+    "describe": "Departure refers to the act of leaving a particular place, such as a city, airport, or station, to begin a journey or travel to another destination."
+  },
+  {
+    "id": 43,
+    "group": "Travel and transportation",
+    "word": "Arrival",
+    "ipa": "",
+    "meaning": "sự đến / sự đổ bộ / sự đến nơi",
+    "describe": "Arrival refers to the act of reaching a destination or arriving at a specific place, such as an airport, station, or hotel, after completing a journey."
+  },
+  {
+    "id": 44,
+    "group": "Travel and transportation",
+    "word": "Boarding Pass",
+    "ipa": "",
+    "meaning": "Thẻ lên máy bay",
+    "describe": "A boarding pass is a document provided to a passenger upon check-in for a flight. It includes important information such as the passenger's name, flight details, seat assignment, departure gate, and boarding time."
+  },
+  {
+    "id": 45,
+    "group": "Travel and transportation",
+    "word": "Baggage",
+    "ipa": "",
+    "meaning": "Hành lý",
+    "describe": "Baggage refers to the personal belongings, luggage, or items that a traveler carries with them during a journey. Baggage can include suitcases, bags, backpacks, and other items needed for the trip."
+  },
+  {
+    "id": 46,
+    "group": "Travel and transportation",
+    "word": "Customs",
+    "ipa": "",
+    "meaning": "Hải quan",
+    "describe": "Customs refers to the government agency responsible for enforcing regulations and collecting duties on imported and exported goods. It also encompasses the area at a port, airport, or border where travelers' baggage is inspected and cleared by customs officials."
+  },
+  {
+    "id": 47,
+    "group": "Travel and transportation",
+    "word": "Immigration",
+    "ipa": "",
+    "meaning": "Nhập cư",
+    "describe": "Immigration refers to the process of entering a country or jurisdiction for the purpose of living, working, or visiting. Immigration procedures often involve passport checks, visa requirements, and documentation to ensure legal entry."
+  },
+  {
+    "id": 48,
+    "group": "Travel and transportation",
+    "word": "Itinerary",
+    "ipa": "",
+    "meaning": "Hành trình",
+    "describe": "An itinerary is a detailed plan or schedule of travel arrangements, including information about flights, accommodations, activities, and other aspects of a journey. It provides a chronological outline of the trip."
+  },
+  {
+    "id": 49,
+    "group": "Travel and transportation",
+    "word": "Car Rental",
+    "ipa": "",
+    "meaning": "Thuê xe",
+    "describe": "Car rental involves renting a vehicle, typically an automobile, from a rental company for a specified period. Car rental services allow travelers to use a vehicle for transportation during their journey."
+  },
+  {
+    "id": 50,
+    "group": "Travel and transportation",
+    "word": "Shuttle",
+    "ipa": "",
+    "meaning": "Xe đưa đón",
+    "describe": "A shuttle is a service, usually provided by airports, hotels, or transportation companies, that offers regular trips between specific locations, such as between an airport and a hotel. Shuttles are often used to transport passengers efficiently and conveniently."
+  },
+  {
+    "id": 51,
+    "group": "Time",
+    "word": "Deadline",
+    "ipa": "",
+    "meaning": "Hạn chót",
+    "describe": "A deadline is a specific date or time by which a task, project, assignment, or activity must be completed or submitted. Missing a deadline can have consequences such as delays or negative impact on outcomes."
+  },
+  {
+    "id": 52,
+    "group": "Time",
+    "word": "Appointment",
+    "ipa": "",
+    "meaning": "Cuộc hẹn",
+    "describe": "An appointment is a prearranged meeting or engagement scheduled for a specific date and time between two or more individuals. Appointments are often used for professional, medical, or personal purposes."
+  },
+  {
+    "id": 53,
+    "group": "Time",
+    "word": "Schedule",
+    "ipa": "",
+    "meaning": "Lịch trình",
+    "describe": "A schedule is a planned arrangement or timetable that outlines the order and timing of activities, events, tasks, or appointments over a certain period. It helps individuals manage their time and ensure tasks are completed on time."
+  },
+  {
+    "id": 54,
+    "group": "Time",
+    "word": "Overtime",
+    "ipa": "",
+    "meaning": "Làm thêm giờ",
+    "describe": "Overtime refers to the additional hours worked beyond the regular working hours, often exceeding a standard workday or workweek. Overtime work is typically compensated at a higher rate than regular hours."
+  },
+  {
+    "id": 55,
+    "group": "Time",
+    "word": "Punctual",
+    "ipa": "",
+    "meaning": "Đúng giờ/ không chậm trễ/ đúng thời hạn đã estimate",
+    "describe": "Being punctual means arriving or completing tasks at the designated time or scheduled deadline. It reflects the quality of being on time and respecting commitments."
+  },
+  {
+    "id": 56,
+    "group": "Time",
+    "word": "Time Zone",
+    "ipa": "",
+    "meaning": "Múi giờ",
+    "describe": "A time zone is a region of the Earth that has the same standard time. Time zones are established to help people across different geographical areas coordinate activities and use a common reference for time."
+  },
+  {
+    "id": 57,
+    "group": "Time",
+    "word": "Duration",
+    "ipa": "",
+    "meaning": "Thời lượng",
+    "describe": "Duration refers to the length of time that an event, activity, process, or condition lasts. It measures the time from the start to the end of a specific occurrence."
+  },
+  {
+    "id": 58,
+    "group": "Time",
+    "word": "Timetable",
+    "ipa": "",
+    "meaning": "Thời gian biểu",
+    "describe": "A timetable is a structured schedule that outlines the timing of events, activities, or tasks over a period. Timetables are commonly used in education, transportation, and various other contexts."
+  },
+  {
+    "id": 59,
+    "group": "Time",
+    "word": "Break",
+    "ipa": "",
+    "meaning": "Nghỉ giải lao",
+    "describe": "A break is a short period of rest or interruption in activities. It provides individuals with the opportunity to relax, refresh, or take care of personal needs before resuming tasks."
+  },
+  {
+    "id": 60,
+    "group": "Time",
+    "word": "Flextime",
+    "ipa": "",
+    "meaning": "Sự sắp xếp thời gian linh hoạt",
+    "describe": "Flextime, short for flexible time, refers to a work arrangement that allows employees to have some flexibility in their daily work hours. This arrangement often allows employees to choose their start and end times within a certain range, while still meeting work requirements."
+  },
+  {
+    "id": 61,
+    "group": "The workplace",
+    "word": "Cubicle",
+    "ipa": "",
+    "meaning": "Ngăn / phòng nhỏ",
+    "describe": "A cubicle is a small, partitioned workspace within a larger office area. Cubicles often have low walls or panels that provide a degree of privacy while still allowing communication and interaction with nearby colleagues."
+  },
+  {
+    "id": 62,
+    "group": "The workplace",
+    "word": "Workspace",
+    "ipa": "",
+    "meaning": "Không gian làm việc",
+    "describe": "A workspace refers to an area where an individual or a team carries out work-related tasks and activities. It can include a desk, chair, computer, and other tools necessary for performing tasks effectively."
+  },
+  {
+    "id": 63,
+    "group": "The workplace",
+    "word": "Conference Room",
+    "ipa": "",
+    "meaning": "Phòng hội nghị",
+    "describe": "Phòng hội nghị là không gian họp được chỉ định trong văn phòng hoặc tòa nhà nơi các nhóm người tụ tập để thảo luận, thuyết trình, họp và làm việc hợp tác. Phòng hội nghị được trang bị bàn, ghế và thiết bị nghe nhìn."
+  },
+  {
+    "id": 64,
+    "group": "The workplace",
+    "word": "Cafeteria",
+    "ipa": "",
+    "meaning": "Quán ăn tự phục vụ",
+    "describe": "A cafeteria is a dining area within a workplace or institution where employees or visitors can purchase and consume meals and beverages. Cafeterias often offer a variety of food options and serve as spaces for breaks and social interaction."
+  },
+  {
+    "id": 65,
+    "group": "The workplace",
+    "word": "Elevator",
+    "ipa": "",
+    "meaning": "Thang máy",
+    "describe": "An elevator is a vertical transportation device that moves people or goods between different levels of a building. Elevators are essential in multi-story buildings to provide efficient access to various floors."
+  },
+  {
+    "id": 66,
+    "group": "The workplace",
+    "word": "Reception Area",
+    "ipa": "",
+    "meaning": "Khu vực lễ tân",
+    "describe": "The reception area, also known as the lobby or front desk, is the initial point of contact in a building or office where visitors are greeted and directed. It often includes seating, a reception desk, and informational materials."
+  },
+  {
+    "id": 67,
+    "group": "The workplace",
+    "word": "Restroom",
+    "ipa": "",
+    "meaning": "Phòng vệ sinh",
+    "describe": "A restroom, also known as a bathroom or lavatory, is a facility within a building where individuals can use the toilet, wash their hands, and perform personal hygiene tasks."
+  },
+  {
+    "id": 68,
+    "group": "The workplace",
+    "word": "Copier",
+    "ipa": "",
+    "meaning": "Máy photocopy",
+    "describe": "A copier, short for photocopier, is a machine used to make copies of documents and images. It uses light and static electricity to transfer the content from an original onto paper"
+  },
+  {
+    "id": 69,
+    "group": "The workplace",
+    "word": "Fax Machine",
+    "ipa": "",
+    "meaning": "Máy fax",
+    "describe": "A fax machine, short for facsimile machine, is a device that transmits and receives printed documents and images over telephone lines. It converts the content into electronic signals for transmission and then prints a copy at the receiving end."
+  },
+  {
+    "id": 70,
+    "group": "The workplace",
+    "word": "Office Supplies",
+    "ipa": "",
+    "meaning": "Đồ dùng văn phòng",
+    "describe": "Office supplies refer to various materials and items used in day-to-day office tasks. These can include pens, paper, notebooks, staplers, paper clips, envelopes, and other items necessary for productivity and organization."
+  },
+  {
+    "id": 71,
+    "group": "Marketing and Advertising",
+    "word": "Campaign",
+    "ipa": "",
+    "meaning": "Chiến dịch quảng cáo",
+    "describe": "A campaign is a coordinated series of marketing activities and efforts aimed at achieving specific goals within a set timeframe. Campaigns often involve various strategies and tactics to promote products, services, causes, or messages."
+  },
+  {
+    "id": 72,
+    "group": "Marketing and Advertising",
+    "word": "Advertisement",
+    "ipa": "",
+    "meaning": "Quảng cáo",
+    "describe": "An advertisement, often referred to as an ad, is a promotional message or content designed to communicate information about a product, service, or idea to a target audience. Advertisements can be delivered through various mediums, such as print, online, television, radio, and social media."
+  },
+  {
+    "id": 73,
+    "group": "Marketing and Advertising",
+    "word": "Target Audience",
+    "ipa": "",
+    "meaning": "Đối tượng mục tiêu",
+    "describe": "The target audience refers to the specific group of individuals or consumers that a marketing campaign, product, or message is designed to reach and resonate with. Identifying the target audience helps tailor marketing efforts to effectively reach the intended recipients."
+  },
+  {
+    "id": 74,
+    "group": "Marketing and Advertising",
+    "word": "Promotion",
+    "ipa": "",
+    "meaning": "Khuyến mãi",
+    "describe": "Promotion involves various marketing activities aimed at increasing awareness, interest, and demand for a product, service, or event. Promotions can include discounts, special offers, contests, giveaways, and other incentives to encourage consumer engagement."
+  },
+  {
+    "id": 75,
+    "group": "Marketing and Advertising",
+    "word": "Branding",
+    "ipa": "",
+    "meaning": "Xây dựng thương hiệu",
+    "describe": "Branding is the process of creating a distinct and recognizable identity for a product, service, company, or organization. It involves designing a unique name, logo, and visual elements that convey a consistent image and value to consumers."
+  },
+  {
+    "id": 76,
+    "group": "Marketing and Advertising",
+    "word": "Market Research",
+    "ipa": "",
+    "meaning": "Nghiên cứu thị trường",
+    "describe": "Market research is the systematic collection and analysis of data and information about a target market's preferences, behaviors, trends, and needs. It helps businesses make informed decisions about product development, marketing strategies, and customer engagement."
+  },
+  {
+    "id": 77,
+    "group": "Marketing and Advertising",
+    "word": "Consumer",
+    "ipa": "",
+    "meaning": "Người tiêu dùng",
+    "describe": "A consumer is an individual or entity that purchases and uses products or services for personal or business use. Consumers play a crucial role in the demand and consumption of goods and services within the market."
+  },
+  {
+    "id": 78,
+    "group": "Marketing and Advertising",
+    "word": "Marketing Strategy",
+    "ipa": "",
+    "meaning": "Chiến lược tiếp thị",
+    "describe": "A marketing strategy is a comprehensive plan that outlines the goals, objectives, tactics, and approaches a business or organization will use to reach and engage its target audience. It involves decisions about pricing, promotion, distribution, and positioning in the market."
+  },
+  {
+    "id": 79,
+    "group": "Marketing and Advertising",
+    "word": "Public Relations",
+    "ipa": "",
+    "meaning": "Quan hệ công chúng",
+    "describe": "Public relations (PR) is the practice of managing and maintaining a positive public image for a company, brand, or individual. PR involves building relationships with the media, customers, stakeholders, and the public to influence perception and reputation."
+  },
+  {
+    "id": 80,
+    "group": "Marketing and Advertising",
+    "word": "Sponsorship",
+    "ipa": "",
+    "meaning": "Tài trợ",
+    "describe": "Sponsorship involves providing financial or other support to an event, organization, or individual in exchange for exposure, branding opportunities, or association with the sponsored entity. Sponsorship is often used as a marketing strategy to reach a specific audience and enhance brand visibility."
+  },
+  {
+    "id": 81,
+    "group": "Economics and Trade",
+    "word": "Demand",
+    "ipa": "",
+    "meaning": "Cầu / nhu cầu / sự đòi hỏi",
+    "describe": "Demand refers to the quantity of goods or services that consumers are willing and able to purchase at various prices within a specific market and time period. It is influenced by factors such as price, consumer preferences, income levels, and market conditions."
+  },
+  {
+    "id": 82,
+    "group": "Economics and Trade",
+    "word": "Supply",
+    "ipa": "",
+    "meaning": "Cung / sự cung cấp / tiếp tế",
+    "describe": "Supply refers to the quantity of goods or services that producers are willing and able to offer for sale at different prices within a specific market and time frame. It is influenced by production capacity, costs, technology, and other factors."
+  },
+  {
+    "id": 83,
+    "group": "Economics and Trade",
+    "word": "Competition",
+    "ipa": "",
+    "meaning": "Sự cạnh tranh",
+    "describe": "Competition refers to the rivalry among businesses or producers within a market who are vying for the attention and purchases of consumers. Healthy competition can lead to innovation, better products, and improved consumer value."
+
+  },
+  {
+    "id": 84,
+    "group": "Economics and Trade",
+    "word": "Monopoly",
+    "ipa": "",
+    "meaning": "Độc quyền",
+    "describe": "A monopoly occurs when a single company or entity holds exclusive control over the production and distribution of a particular product or service within a market. Monopolies can limit competition and potentially lead to higher prices for consumers."
+  },
+  {
+    "id": 85,
+    "group": "Economics and Trade",
+    "word": "Export",
+    "ipa": "",
+    "meaning": "Xuất khẩu",
+    "describe": "Export refers to the sale and shipment of goods or services produced within one country to customers or markets in other countries. Exporting is a fundamental aspect of international trade."
+  },
+  {
+    "id": 86,
+    "group": "Economics and Trade",
+    "word": "Import",
+    "ipa": "",
+    "meaning": "Nhập khẩu",
+    "describe": "Import refers to the purchase and bringing in of goods or services from foreign countries for consumption, distribution, or resale within a domestic market."
+  },
+  {
+    "id": 87,
+    "group": "Economics and Trade",
+    "word": "Tariff",
+    "ipa": "",
+    "meaning": "Thuế quan ( đánh thuế lên hàng nhập khẩu )",
+    "describe": "A tariff is a tax or duty imposed on imported goods by a government. Tariffs are often used to protect domestic industries, generate revenue, or influence trade relationships."
+  },
+  {
+    "id": 88,
+    "group": "Economics and Trade",
+    "word": "Trade Agreement",
+    "ipa": "",
+    "meaning": "Hiệp đinh thương mại",
+    "describe": "A trade agreement is a formal arrangement between two or more countries that outlines the terms and conditions for the exchange of goods, services, and sometimes investment. Trade agreements can aim to reduce trade barriers, promote economic cooperation, and increase market access."
+  },
+  {
+    "id": 89,
+    "group": "Economics and Trade",
+    "word": "Inflation",
+    "ipa": "",
+    "meaning": "Lạm phát",
+    "describe": "Inflation is the sustained increase in the general price level of goods and services within an economy over time. It erodes the purchasing power of money and can be caused by factors such as increased demand, supply shortages, or changes in currency value."
+  },
+  {
+    "id": 90,
+    "group": "Economics and Trade",
+    "word": "Economic Growth",
+    "ipa": "",
+    "meaning": "Tăng trưởng kinh tế",
+    "describe": ""
+  },
+  {
+    "id": 91,
+    "group": "The Environment",
+    "word": "Sustainability",
+    "ipa": "",
+    "meaning": "Tính bền vững",
+    "describe": "Sustainability refers to the practice of meeting the needs of the present without compromising the ability of future generations to meet their own needs. It involves using resources responsibly, minimizing environmental impacts, and ensuring social and economic well-being."
+  },
+  {
+    "id": 92,
+    "group": "The Environment",
+    "word": "Renewable",
+    "ipa": "",
+    "meaning": "Năng lượng tái tạo",
+    "describe": "Renewable refers to resources or energy sources that can be naturally replenished over time, such as solar energy, wind energy, and biomass. These resources are considered sustainable because they are not depleted with use."
+  },
+  {
+    "id": 93,
+    "group": "The Environment",
+    "word": "Pollution",
+    "ipa": "",
+    "meaning": "Sự ô nhiễm",
+    "describe": "Pollution refers to the introduction of harmful substances or contaminants into the environment, which can have adverse effects on the air, water, soil, and ecosystems. Pollution can negatively impact human health, wildlife, and natural resources."
+  },
+  {
+    "id": 94,
+    "group": "The Environment",
+    "word": "Conservation",
+    "ipa": "",
+    "meaning": "Bảo tồn",
+    "describe": "Conservation involves the protection, management, and sustainable use of natural resources, ecosystems, and biodiversity. It aims to preserve these resources for present and future generations."
+  },
+  {
+    "id": 95,
+    "group": "The Environment",
+    "word": "Recycling",
+    "ipa": "",
+    "meaning": "Tái chế",
+    "describe": "Recycling is the process of collecting, processing, and reusing materials from waste products to create new products. It helps reduce the demand for new raw materials, conserving energy and resources."
+  },
+  {
+    "id": 96,
+    "group": "The Environment",
+    "word": "Emission",
+    "ipa": "",
+    "meaning": "Phát thải",
+    "describe": "Emission refers to the release of substances, such as pollutants or greenhouse gases, into the environment. Emissions can come from various sources, including vehicles, industries, and power plants."
+  },
+  {
+    "id": 97,
+    "group": "The Environment",
+    "word": "Green Energy",
+    "ipa": "",
+    "meaning": "Năng lượng xanh",
+    "describe": "Green energy, also known as renewable energy, refers to energy derived from sources that have minimal environmental impact and are naturally replenished, such as solar, wind, hydro, and geothermal energy."
+  },
+  {
+    "id": 98,
+    "group": "The Environment",
+    "word": "Biodiversity",
+    "ipa": "",
+    "meaning": "Đa dạng sinh học",
+    "describe": "Biodiversity refers to the variety and variability of life forms within a given ecosystem, including plants, animals, microorganisms, and genetic diversity. Biodiversity is important for ecosystem stability, resilience, and the overall health of the planet"
+  },
+  {
+    "id": 99,
+    "group": "The Environment",
+    "word": "Deforestation",
+    "ipa": "",
+    "meaning": "Phá rừng",
+    "describe": "Deforestation is the clearing or removal of forests or trees from a designated area, often to make way for agriculture, urban development, or other purposes. Deforestation can lead to loss of habitat, biodiversity, and contribute to climate change."
+  },
+  {
+    "id": 100,
+    "group": "The Environment",
+    "word": "Climate Change",
+    "ipa": "",
+    "meaning": "Biến đổi khí hậu",
+    "describe": "Climate change refers to long-term shifts and alterations in Earth's climate patterns, including changes in temperature, precipitation, and weather events. Human activities, particularly the release of greenhouse gases, have contributed to rapid climate change, leading to environmental impacts and concerns"
+  }
+]
