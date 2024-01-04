@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Cloud computing"
+title:  "AZ-900: Cloud computing"
 date:   2023-12-26 15:23:16 +0700
 categories: az-900 describe-cloud-computing
 ---

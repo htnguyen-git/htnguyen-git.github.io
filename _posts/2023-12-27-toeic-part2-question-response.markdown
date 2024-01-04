@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Toeic part2: question and response"
-date:   2023-12-22 17:23:16 +0700
+date:   2023-12-27 17:23:16 +0700
 categories: toeic part2
 ---
 

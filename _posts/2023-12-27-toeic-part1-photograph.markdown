@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Toeic part1: photograph"
-date:   2023-12-22 15:23:16 +0700
+date:   2023-12-27 15:23:16 +0700
 categories: toeic part1
 ---
 
