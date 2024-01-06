@@ -1,13 +1,11 @@
 ﻿---
 layout: post
 title:  "AZ-900: Cloud computing"
-date:   2023-12-26 15:23:16 +0700
+date:   2024-01-14 06:23:16 +0700
 categories: az-900 describe-cloud-computing
 ---
 
 # Describe cloud computing
-
-
 ## Cloud computing
 - Cloud computing:
 	- Là mô hình

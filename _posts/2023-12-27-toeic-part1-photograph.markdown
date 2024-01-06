@@ -5,11 +5,25 @@ date:   2023-12-27 15:23:16 +0700
 categories: toeic part1
 ---
 
-# Part 1 có gì?
-- Trong part 1, có một bức ảnh và 4 đáp án miêu tả.
-- Cần nghe và chọn đáp án miêu tả đúng nhất.
+# Part 1: Photograph?
+## Why :
+- Nhận biết nhanh
+- Âm thanh, 
+- Từ vựng, 
+- Cấu trúc câu,
+- Ngữ cảnh,
+- Tình huống hằng ngày
 
-## 5 khía cạnh của một bức tranh
+## How	
+- Học từ vựng : người, vật, địa điểm, hoạt động, màu sắc, hình dạng, vị trí, hướng, số lượng, thời gian, cảm xúc
+- Cấu trúc câu: 
+	- S + tobe + V_ing + O
+	- S + tobe + prepositional phrase of place
+	- S + tobe + being Vppl
+	- S + tobe + Vpll adverb
+	- ...
+
+## What - 5 khía cạnh của một bức tranh
 ### Action
 - Có thể có nhiều hơn 1 người.
 - Mỗi người có thể làm những hành động khác nhau.
