@@ -4,13 +4,14 @@ title:  "Toeic vocabulary"
 date:   2024-01-03 17:23:16 +0700
 categories: toeic vocabulary
 ---
-
 ## People and Occupations List
 {% assign record = site.data.eng.vocabulary | where: "group", "People and Occupations List" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+*** 
+
 {% endfor %}
 
 
@@ -18,8 +19,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "Business and Finance list" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+***
+
 {% endfor %}
 
 
@@ -27,8 +30,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "Communications" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+***
+
 {% endfor %}
 
 
@@ -36,8 +41,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "Technology" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+*** 
+
 {% endfor %}
 
 
@@ -45,8 +52,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "Travel and transportation" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+***
+
 {% endfor %}
 
 
@@ -54,8 +63,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "Time" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+***
+
 {% endfor %}
 
 
@@ -63,8 +74,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "The workplace" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+*** 
+
 {% endfor %}
 
 
@@ -72,8 +85,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "Marketing and Advertising" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+***
+
 {% endfor %}
 
 
@@ -81,8 +96,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "Economics and Trade" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+***
+
 {% endfor %}
 
 
@@ -90,8 +107,10 @@ categories: toeic vocabulary
 {% assign record = site.data.eng.vocabulary | where: "group", "The Environment" %}
 {% for member in record %}
 {{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+: {{ member.describe }}
 
-|{{ member.describe }}|
+***
+
 {% endfor %}
 
 
