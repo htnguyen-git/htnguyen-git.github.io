@@ -52,4 +52,4 @@ categories: toeic part1
 
 ### Assumtions
 - Miêu tả về bức tranh có thể không nằm trong 4 loại trên
-- Lúc này, chúng ta cần suy luận từ các đối tượng ở trong tranh.Cần phải có bằng chứng rõ ràng cho việc suy luận này.
+- Lúc này, chúng ta cần suy luận từ các đối tượng ở trong tranh. Cần phải có bằng chứng rõ ràng cho việc suy luận này.

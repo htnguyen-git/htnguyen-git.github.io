@@ -7,7 +7,7 @@ categories: toeic vocabulary
 ## People and Occupations List
 {% assign record = site.data.eng.vocabulary | where: "group", "People and Occupations List" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 *** 
@@ -18,7 +18,7 @@ categories: toeic vocabulary
 ## Business and Finance list
 {% assign record = site.data.eng.vocabulary | where: "group", "Business and Finance list" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 ***
@@ -29,7 +29,7 @@ categories: toeic vocabulary
 ## Communications
 {% assign record = site.data.eng.vocabulary | where: "group", "Communications" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 ***
@@ -40,7 +40,7 @@ categories: toeic vocabulary
 ## Technology
 {% assign record = site.data.eng.vocabulary | where: "group", "Technology" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 *** 
@@ -51,7 +51,7 @@ categories: toeic vocabulary
 ## Travel and transportation
 {% assign record = site.data.eng.vocabulary | where: "group", "Travel and transportation" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 ***
@@ -62,7 +62,7 @@ categories: toeic vocabulary
 ## Time
 {% assign record = site.data.eng.vocabulary | where: "group", "Time" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 ***
@@ -73,7 +73,7 @@ categories: toeic vocabulary
 ## The workplace
 {% assign record = site.data.eng.vocabulary | where: "group", "The workplace" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 *** 
@@ -84,7 +84,7 @@ categories: toeic vocabulary
 ## Marketing and Advertising
 {% assign record = site.data.eng.vocabulary | where: "group", "Marketing and Advertising" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 ***
@@ -95,7 +95,7 @@ categories: toeic vocabulary
 ## Economics and Trade
 {% assign record = site.data.eng.vocabulary | where: "group", "Economics and Trade" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 ***
@@ -106,7 +106,7 @@ categories: toeic vocabulary
 ## The Environment
 {% assign record = site.data.eng.vocabulary | where: "group", "The Environment" %}
 {% for member in record %}
-{{ member.word }} - {{ member.ipa }} - {{ member.meaning }}
+{{ member.word }} - /{{ member.ipa }}/ - {{ member.meaning }}
 : {{ member.describe }}
 
 ***

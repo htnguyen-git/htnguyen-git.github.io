@@ -5,10 +5,19 @@ date:   2023-12-27 17:23:16 +0700
 categories: toeic part2
 ---
 
-# Part 2 có gì
+# Part 2: Question and response
+##  
+- Kiểm tra khả năng nghe hiểu và phản ứng đối với các tình huống giao tiếp cơ bản hằng ngày
+- Giúp nâng cao vốn từ vựng, ngữ pháp, phát âm.
 - Speaker sẽ đọc câu hỏi và 3 đáp án 
 - Cần chọn đáp án đúng nhất.
 - Không nhìn thấy câu hỏi hay đáp án, chỉ nghe
+
+## How
+- Luyện nghe nhiều bài nghe có đáp án và lời thoại để quen với cấu trúc, nội dung và cách phát âm.
+- Học các dạng câu hỏi thường gặp và cách để trả lời
+- Nghe kỹ từ, ghi chú những thông tin quan trọng
+- Tránh các bẫy như: từ đồng âm
 
 ## Genuine Question
 ### Yes/No question
@@ -72,8 +81,6 @@ categories: toeic part2
 	- That's a good idea
 	- Why not?
 	- Good idea
-
-
 
 ### Making an offer
 - Dấu hiệu:

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "AZ-900: Benefit of cloud computing"
-date:   2024-01-14 15:23:16 +0700
+date:   2024-01-04 15:23:16 +0700
 categories: az-900 benefit-of-cloud-computing
 ---
 
