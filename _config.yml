@@ -29,6 +29,7 @@ github_username: htnguyen-git
 
 permalink: /:categories/:title:output_ext
   
+encoding: UTF-8 
 # Build settings
 theme: minima
 plugins:
